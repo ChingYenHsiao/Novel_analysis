@@ -1,0 +1,8 @@
+This tool can only accept docx file, it will seperate the text with different colors and sotre into txt files.
+1. Select file
+2. press "OK"
+
+Output: 
+  The seperated texts, 
+  A color map png  file,
+  The word count for most 10 color of text.
